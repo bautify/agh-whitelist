@@ -2,11 +2,6 @@
 etracker.com
 etracker.de
 
-# Bild.de
-acdn.adnxs.com
-cdn1.smartadserver.com
-ec-ns.sascdn.com
-
 # GTA Online telemetry. Whitelist this domain to prevent the game from crashing.
 prod.telemetry.ros.rockstargames.com
 
