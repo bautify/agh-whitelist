@@ -2,22 +2,10 @@
 etracker.com
 etracker.de
 
-# GTA Online telemetry. Whitelist this domain to prevent the game from crashing.
-prod.telemetry.ros.rockstargames.com
-
 # Netflix - Domains needed for netlix to work correctly
 api-global.netflix.com
 appboot.netflix.com
 secure.netflix.com
 
-# Nvidia updates
-ota-downloads.nvidia.com
-
 # Pr0gramm App
 pr0gramm.com
-
-# Xbox Achievements and game stats sync
-v10.events.data.microsoft.com
-v20.events.data.microsoft.com
-
-
